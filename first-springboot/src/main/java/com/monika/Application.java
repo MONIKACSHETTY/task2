@@ -1,12 +1,12 @@
-package com.example.demo;
+package com.monika;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class Task2Application {
+public class Application {
 
 	public static void main(String[] args) {
-		SpringApplication.run(Task2Application.class, args);
+		SpringApplication.run(Application.class, args);
 	}
 }
